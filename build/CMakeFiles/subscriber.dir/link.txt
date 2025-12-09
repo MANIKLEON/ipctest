@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/subscriber.dir/src/subscriber.cpp.o -o subscriber   -L/usr/local/lib  -Wl,-rpath,/usr/local/lib -lpaho-mqttpp3 -lpaho-mqtt3a 

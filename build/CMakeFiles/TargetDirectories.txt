@@ -1,0 +1,4 @@
+/mnt/c/Users/manik/source/repos/Flairedge/ipc/build/CMakeFiles/publisher.dir
+/mnt/c/Users/manik/source/repos/Flairedge/ipc/build/CMakeFiles/subscriber.dir
+/mnt/c/Users/manik/source/repos/Flairedge/ipc/build/CMakeFiles/edit_cache.dir
+/mnt/c/Users/manik/source/repos/Flairedge/ipc/build/CMakeFiles/rebuild_cache.dir
